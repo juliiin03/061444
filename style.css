@@ -1,0 +1,401 @@
+@charset "UTF-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+header h1  {
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    margin-bottom: -45px;
+}
+.container .course {
+}
+.container header h6 {
+    margin-bottom: -100px;
+}
+header h1 a:hover {
+    padding-top: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+    padding-left: 18px;
+}
+nav {
+    background-color: #ECE4DD;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    display: flex;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    justify-content: flex-end;
+    position: fixed;
+    opacity: 0.8;
+    margin-top: -8px;
+	z-index: 1000
+}
+p {
+    text-align: left;
+    margin-left: 24px;
+}
+nav a:link  {
+    text-decoration: none;
+    color: #977676;
+}
+article iframe {
+}
+h5  {
+    margin-bottom: -20px;
+    margin-top: 5px;
+    text-align: center;
+    margin-left: 5px;
+}
+.spainimg {
+    height: 300px;
+    background-image: url(IMG_1096.JPG);
+    background-position: center -93px;
+    background-size: cover;
+    border-radius: 10px;
+}
+nav a:hover {
+    color: #E1C3C3;
+    text-shadow: 0px 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: #977676;
+}
+nav a:visited {
+    color: #5A4E47;
+}
+article h3  {
+    background-color: #E3D0CA;
+    height: 35px;
+    padding-left: 10px;
+    line-height: 35px;
+    width: 100%;
+}
+header {
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 125px;
+    flex-direction: column;
+    height: 66vh;
+    background-image: url(IMG_1375.JPG);
+}
+.container header h2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: normal;
+    font-size: 15px;
+    text-decoration: underline;
+    margin-bottom: -18px;
+}
+.container nav .hola {
+    text-align: right;
+    margin-right: 10px;
+}
+header h1 a {
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    background-color: #BFA6A6;
+    font-weight: 500;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0 0 4px 3px #D8BDBE;
+    box-shadow: 0 0 4px 3px #D8BDBE;
+    font-size: 45px;
+}
+article   {
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.container .pad {
+    padding-bottom: 0px;
+}
+footer {
+    text-align: center;
+    font-size: small;
+    background-color: #E3D0CA;
+    height: 30px;
+    line-height: 30px;
+    margin-top: -2px;
+}
+article h3 {
+    text-align: center;
+    margin-bottom: 65px;
+}
+.container1 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-bottom: -20px;
+}
+.container1 .left {
+    flex: 1;
+    padding-right: 0px;
+    text-align: left;
+	-webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+}
+.container1 .right {
+    flex: 1;
+}
+.container1 .right iframe {
+    width: 520px;
+    height: 520px;
+    border-radius: 15px;
+	-webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+}
+.familia img {
+    border-radius: 15px;
+    margin-top: -7px;
+}
+.container2 {
+    display: flex;
+    margin-bottom: -20px;
+}
+.container2 .left1 {
+    flex: 1;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    text-align: center;
+}
+.container2 .right1 .hola {
+    margin-top: 89px;
+}
+.container2 .left1 img {
+    border-radius: 15px;
+	-webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+}
+.container2 .right1 {
+    flex: 1;
+}
+article .job {
+    margin-left: auto;
+    margin-right: auto;
+    width: 73%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: -66px;
+    margin-top: -30px;
+}
+article .color {
+    display: flex;
+    margin-bottom: -25px;
+}
+.ghost img  {
+    border-radius: 15px;
+}
+.anime img {
+    border-radius: 15px;
+}
+.colorimg   {
+    flex: 2;
+    text-align: center;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+.color .left2 {
+    flex: 1;
+}
+article .familia {
+    text-align: center;
+    margin-bottom: -25px;
+}
+article .M {
+    display: flex;
+    margin-top: -20px;
+}
+article .M .left3 {
+    line-height: 40px;
+    flex: 1;
+    text-align: right;
+}
+article .M .right3 {
+    flex: 1;
+    text-align: center;
+    line-height: 35px;
+}
+article .mu {
+    text-align: center;
+    line-height: 31px;
+    margin-top: -27px;
+}
+article iframe {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+article {
+}
+article .job {
+    display: flex;
+    padding-top: 100px;
+    margin-top: -80px;
+    padding-bottom: 20px;
+}
+article .job .Ana {
+    text-align: center;
+    display: FLEX;
+    background-image: url(IMG_1071.JPG);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: 0% 65%;
+    align-items: flex-end;
+    flex: 5;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: auto;
+    -webkit-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+    transition: all 0.7s ease-in-out 0s;
+}
+article .job .Javier {
+    flex: 5;
+    text-align: center;
+    background-image: url(f_25562523_1.jpg);
+    background-size: cover;
+    background-position: 0% 22%;
+    display: flex;
+    align-items: flex-end;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    -webkit-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+    transition: all 0.7s ease-in-out 0s;
+}
+.JJ .jj .j {
+}
+.job .b1  {
+    color: #FFFFFF;
+    background-color: #443F39;
+    opacity: 0.7;
+    width: 300px;
+    text-align: center;
+    height: 20px;
+    line-height: 25px;
+    background-position: center center;
+    margin-left: auto;
+    margin-right: auto;
+}
+article .Luis {
+    width: 300px;
+    height: 300px;
+    background-image: url(IMG_1078.JPG);
+    display: flex;
+    background-position: center center;
+    background-size: cover;
+    margin-right: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    text-align: center;
+	-webkit-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+    transition: all 0.7s ease-in-out 0s;
+}
+article .job .LL {
+    padding-left: 0px;
+}
+article .Marta {
+    background-image: url(IMG_1079.JPG);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-right: auto;
+    background-position: 14% 23%;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+.AA .aa .a {
+    text-align: left;
+    margin-left: -2px;
+}
+.LL .ll .l {
+    margin-left: -2px;
+}
+.MM .mm .m {
+}
+.ghost img {
+	-webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+}
+.anime img {
+	-webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+}
+.material-icons {
+    background-color: #A78586;
+    border-radius: 92px;
+    margin-top: 11px;
+    margin-bottom: -34px;
+}
+
+article .job .Ana:hover {
+    height: 310px;
+    width: 310px;
+}
+article .job .Javier:hover {
+    height: 310px;
+    width: 310px;
+}
+article .job .Luis:hover {
+    height: 310px;
+    width: 310px;
+}
+article .job .Marta:hover {
+    height: 310px;
+    width: 310px;
+}
+article .container2 .left1 img:hover {
+   	transform: rotate(-5deg);
+}
+article .container1 .right iframe:hover {
+   	transform: translate(-120px);
+}
+article .container1 .left:hover {
+   	transform: translate(120px);
+}
+article .container2 .left1 img:hover {
+   	transform: rotate(-5deg);
+}
+article .colorimg:hover {
+   	transform: rotate(-5deg);
+}
+article .ghost img:hover {
+   	transform: rotate(-2deg);
+}
+article .anime img:hover {
+   	transform: rotate(2deg);
+}
